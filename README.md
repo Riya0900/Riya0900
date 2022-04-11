@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Riya Shah.
 - 👀 I’m interested in Web Development, Frontend Coding.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently working on React.
